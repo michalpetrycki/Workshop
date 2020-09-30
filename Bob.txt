@@ -1,7 +1,7 @@
 Here's Bob's first file / commit.
 
-<<<<<<< HEAD
+
 I'm a bad bad baaaad Alice! :D 
-=======
+
 I made commit too!
->>>>>>> 5242acbd1e0f15a3ed49ec769d3829ccb1db76ac
+
